@@ -1,0 +1,66 @@
+name: Node js app deploy to EKS
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+jobs:
+   build:
+    runs-on: ubuntu-latest
+    env:
+      IMAGE_NAME_FRONTEND: tsimagnova/frontendv10
+      IMAGE_NAME_BACKEND: tsimagnova/devops_backend
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Log in to Docker Registry
+      run: docker login -u ${{ secrets.DOCKER_REGISTRY_USER }} -p ${{ secrets.DOCKER_REGISTRY_PASS }}
+    - name: Build Docker image Backend
+      run: |
+        cd backend
+        docker build -t ${{ env.IMAGE_NAME_BACKEND }} .
+        docker push ${{ env.IMAGE_NAME_BACKEND }}
+        cd ..
+    - name: Build Docker image Frontend
+      run: |
+        cd frontend
+        docker build -t ${{ env.IMAGE_NAME_FRONTEND }} .
+        docker push ${{ env.IMAGE_NAME_FRONTEND }}
+   deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Install kubectl
+      uses: azure/setup-kubectl@v2.0
+      with:
+        version: 'v1.24.0' # default is latest stable
+      id: install
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: us-east-1 
+    - name : update the kube config
+      run: aws eks update-kubeconfig --name devops
+
+    - name: Describe EKS cluster
+      run: aws eks describe-cluster --name devops
+    - name: Deployer application phpmyadmin
+      run: kubectl apply -f kubernetes/phpmyadmin.yaml
+      
+    - name: Deployer application Database Mysql
+      run: kubectl apply -f kubernetes/mysql.yaml
+
+    - name: Deployer application Python Backend
+      run: |
+        kubectl delete -f kubernetes/python-backend.yaml
+        kubectl apply -f kubernetes/python-backend.yaml
+    - name: Deployer application Reactjs Frontend
+      run: |
+        kubectl delete -f kubernetes/react-frontend.yaml
+        kubectl apply -f kubernetes/react-frontend.yaml
+
+  
