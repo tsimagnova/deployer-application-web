@@ -1,0 +1,38 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fastapi-app
+spec:
+  replicas: 1 # Nombre de répliques souhaité
+  selector:
+    matchLabels:
+      app: fastapi-app
+  template:
+    metadata:
+      labels:
+        app: fastapi-app
+    spec:
+      containers:
+        - name: fastapi-container
+          image: tsimagnova/devops_backend:latest  # Remplacez par votre image Docker FastAPI
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8000  # Port sur lequel FastAPI écoute
+          env:
+            - name: DB_URL
+              value: "mysql-service.default"  # This should match the service name of MySQL
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: fastapi-service
+spec:
+  selector:
+    app: fastapi-app
+  type: LoadBalancer 
+  ports:
+    - protocol: TCP
+      port: 8000  # Port sur lequel vous souhaitez exposer le service
+      targetPort: 8000  # Port du conteneur FastAPI
+      nodePort: 30000
+   # Ou utilisez 'NodePort' ou 'ClusterIP' en fonction de vos besoins

@@ -1,0 +1,3043 @@
+INFO:root:database connected
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:database connected
+INFO:root:liste des étudiants bien listé 
+INFO:root:database connected
+ERROR:root:Error:1049 (42000): Unknown database 'GestioNote'
+INFO:root:database connected
+INFO:root:liste des étudiants bien listé 
+INFO:root:etudiant created!!
+INFO:root:liste des étudiants bien listé 
+DEBUG:root:This is a debug message.
+INFO:root:This is an info message.
+WARNING:root:This is a warning message.
+ERROR:root:This is an error message.
+ERROR:root:Error:1049 (42000): Unknown database 'gestio_de_note'
+INFO:root:database connected
+INFO:root:database connected
+INFO:root:liste des étudiants bien listé 
+ERROR:root:Error:2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+INFO:root:database connected
+ERROR:root:Error:2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (111)
+INFO:root:database connected
+INFO:root:database connected
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:database connected
+ERROR:root:Error:1049 (42000): Unknown database 'gestion_des_etudiant'
+INFO:uvicorn.error:Started server process [87322]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [87322]
+ERROR:root:Error:1049 (42000): Unknown database 'gestion_des_etudiant'
+INFO:uvicorn.error:Started server process [134432]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [134432]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [143107]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [143107]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [154714]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [154714]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [155233]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [155233]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [155667]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [155667]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [157601]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [157601]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [158720]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [158720]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [159059]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [159059]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [160296]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [160296]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [161204]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [162825]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [163033]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [163804]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [163901]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [164030]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [164089]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [164138]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [164303]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [164451]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [164698]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [164975]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [165255]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:[Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): address already in use
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+ERROR:root:Error:1698 (28000): Access denied for user 'root'@'localhost'
+INFO:uvicorn.error:Started server process [3881]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [3881]
+ERROR:root:Error:1698 (28000): Access denied for user 'root'@'localhost'
+INFO:uvicorn.error:Started server process [4584]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+ERROR:root:Error:1698 (28000): Access denied for user 'root'@'localhost'
+INFO:uvicorn.error:Started server process [6594]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 292, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 192, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/fast-react/backend/./app.py", line 55, in read_etudiants
+    cursor = db_config.connection.cursor(dictionary=True)
+AttributeError: 'dict' object has no attribute 'connection'
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 292, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 192, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/fast-react/backend/./app.py", line 55, in read_etudiants
+    cursor = db_config.connection.cursor(dictionary=True)
+AttributeError: 'dict' object has no attribute 'connection'
+ERROR:root:Error:1698 (28000): Access denied for user 'root'@'localhost'
+INFO:uvicorn.error:Started server process [4416]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+ERROR:root:Error:1698 (28000): Access denied for user 'root'@'localhost'
+INFO:uvicorn.error:Started server process [4946]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 292, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 192, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/fast-react/backend/./app.py", line 55, in read_etudiants
+    cursor = db_config.connection.cursor(dictionary=True)
+AttributeError: 'dict' object has no attribute 'connection'
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 292, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 192, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/fast-react/backend/./app.py", line 32, in create_etudiants
+    cursor = db_config.connection.cursor()
+AttributeError: 'dict' object has no attribute 'connection'
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 292, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 192, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/fast-react/backend/./app.py", line 55, in read_etudiants
+    cursor = db_config.connection.cursor(dictionary=True)
+AttributeError: 'dict' object has no attribute 'connection'
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [4946]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [7840]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7840]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [7853]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7853]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [7889]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7889]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [7935]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7935]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [7948]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 292, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 192, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/fast-react/backend/./app.py", line 33, in create_etudiants
+    cursor = db_config.connection.cursor()
+AttributeError: 'dict' object has no attribute 'connection'
+INFO:root:database connected
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7948]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [8185]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8185]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [8233]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8233]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [8255]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8255]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [8283]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8283]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [8296]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:etudiant created!!
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8296]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [8381]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8381]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [8427]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8427]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [8472]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8472]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [8496]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8496]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [8541]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8541]
+INFO:root:database connected
+INFO:uvicorn.error:Started server process [8563]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:liste des étudiants bien listé 
+INFO:root:etudiant bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+INFO:root:liste des étudiants bien listé 
+ERROR:root:Error:1698 (28000): Access denied for user 'root'@'localhost'
+INFO:uvicorn.error:Started server process [7834]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 292, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 192, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/fast-react/backend/./app.py", line 56, in read_etudiants
+    cursor = database.connection.cursor(dictionary=True)
+AttributeError: module 'database' has no attribute 'connection'
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7834]
+ERROR:root:Error:1698 (28000): Access denied for user 'root'@'localhost'
+INFO:uvicorn.error:Started server process [6631]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 292, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 192, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/fast-react/backend/./app.py", line 56, in read_etudiants
+    cursor = database.connection.cursor(dictionary=True)
+AttributeError: module 'database' has no attribute 'connection'
+ERROR:root:Error:1698 (28000): Access denied for user 'root'@'localhost'
+INFO:uvicorn.error:Started server process [4127]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [4127]
+ERROR:root:Error:1698 (28000): Access denied for user 'root'@'localhost'
+INFO:uvicorn.error:Started server process [4654]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 292, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 192, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/fast-react/backend/./app.py", line 33, in create_etudiants
+    cursor = database.connection.cursor()
+AttributeError: module 'database' has no attribute 'connection'
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [4654]
+ERROR:root:Error:1698 (28000): Access denied for user 'root'@'localhost'
+INFO:uvicorn.error:Started server process [6445]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [6445]
+ERROR:root:Erreur de connexion à la base de données MySQL: 1698 (28000): Access denied for user 'root'@'localhost'
+INFO:uvicorn.error:Started server process [6498]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: module 'database' has no attribute 'connection'
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [6498]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+ERROR:root:Erreur de connexion à la base de données MySQL: 1049 (42000): Unknown database 'GestionDesEtudiants'
+INFO:uvicorn.error:Started server process [7253]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: module 'database' has no attribute 'connection'
+ERROR:root:Erreur lors de la création de l'étudiant: module 'database' has no attribute 'connection'
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7253]
+INFO:uvicorn.error:Started server process [7416]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: module 'database' has no attribute 'connection'
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7416]
+INFO:uvicorn.error:Started server process [7671]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Étudiant créé avec succès!
+INFO:root:Étudiant récupéré avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+DEBUG:root:Ceci est un message de débogage.
+INFO:root:Ceci est un message d'information.
+WARNING:root:Ceci est un message d'avertissement.
+ERROR:root:Ceci est un message d'erreur.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Started server process [5851]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [5851]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [19149]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [19149]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [19437]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [19437]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [19616]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [19616]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [20003]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+INFO:uvicorn.error:Started server process [4467]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 639, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'GestionsdesEtudiant.etudiant' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 1115, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 274, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/Documents/React-Fast/backend/./app.py", line 47, in read_etudiant
+    cursor.execute(query, (id_etudiant,))
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 647, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 639, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'GestionsdesEtudiant.etudiant' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 1115, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 274, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/Documents/React-Fast/backend/./app.py", line 47, in read_etudiant
+    cursor.execute(query, (id_etudiant,))
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 647, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [4467]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [4809]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 639, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'GestionsdesEtudiant.etudiant' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 1115, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 274, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/Documents/React-Fast/backend/./app.py", line 47, in read_etudiant
+    cursor.execute(query, (id_etudiant,))
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 647, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 639, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'GestionsdesEtudiant.etudiant' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 1115, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 83, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 274, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/Documents/React-Fast/backend/./app.py", line 47, in read_etudiant
+    cursor.execute(query, (id_etudiant,))
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 647, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [4809]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [5044]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [5044]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [6033]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [6033]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [6792]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 639, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'GestionsdesEtudiant.etudiant' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 1115, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 274, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/Documents/React-Fast/backend/./app.py", line 58, in read_etudiants
+    cursor.execute(query)
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 647, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [6792]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [6036]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [6036]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [6680]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 639, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'GestionsdesEtudiant.etudiant' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/lib/python3/dist-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/applications.py", line 1115, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 274, in app
+    raw_response = await run_endpoint_function(
+  File "/home/duckel/.local/lib/python3.10/site-packages/fastapi/routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/duckel/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/duckel/Documents/React-Fast/backend/./app.py", line 58, in read_etudiants
+    cursor.execute(query)
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/duckel/.local/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 647, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [6680]
+INFO:uvicorn.error:Started server process [6875]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [6875]
+INFO:uvicorn.error:Started server process [6897]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: 1146 (42S02): Table 'GestionsdesEtudiant.etudiant' doesn't exist
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [6897]
+INFO:uvicorn.error:Started server process [7006]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Étudiant créé avec succès!
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7006]
+INFO:uvicorn.error:Started server process [7137]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7137]
+INFO:uvicorn.error:Started server process [7191]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7191]
+INFO:uvicorn.error:Started server process [7241]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7241]
+INFO:uvicorn.error:Started server process [7271]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7271]
+INFO:uvicorn.error:Started server process [7325]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Étudiant créé avec succès!
+INFO:root:Étudiant récupéré avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [7325]
+INFO:uvicorn.error:Started server process [7643]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Started server process [8874]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Started server process [12277]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Started server process [3452]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant récupéré avec succès
+INFO:root:Étudiant récupéré avec succès
+INFO:uvicorn.error:Started server process [3392]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Started server process [7747]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Started server process [11349]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [11349]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [12823]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la création de l'étudiant: Not all parameters were used in the SQL statement
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [12823]
+INFO:uvicorn.error:Started server process [13320]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [13320]
+INFO:uvicorn.error:Started server process [13384]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [13384]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [13883]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [13883]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [14666]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Started server process [4553]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [4553]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [3644]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [3644]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [3446]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [3446]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [4166]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [4166]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [4874]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [4874]
+INFO:uvicorn.error:Started server process [5301]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [5301]
+INFO:uvicorn.error:Started server process [5365]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Started server process [10754]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Started server process [5791]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [5791]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [3694]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Started server process [4796]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Started server process [4667]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [4667]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [5390]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [5390]
+INFO:uvicorn.error:Started server process [6285]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [6285]
+INFO:uvicorn.error:Started server process [7412]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Started server process [8356]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+ERROR:root:Erreur lors de la création de l'étudiant: 1292 (22007): Incorrect date value: 'test2' for column `GestionsdesEtudiant`.`Etudiant`.`date` at row 1
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [8356]
+INFO:uvicorn.error:Started server process [9411]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [9411]
+INFO:uvicorn.error:Started server process [9462]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [9462]
+INFO:uvicorn.error:Started server process [9519]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [9519]
+INFO:uvicorn.error:Started server process [9540]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+INFO:uvicorn.error:Started server process [15729]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [15729]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [4421]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [4421]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [5744]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [5744]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [12566]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [12566]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [4116]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [4116]
+INFO:uvicorn.error:Started server process [7670]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Started server process [11041]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+ERROR:root:Erreur lors de la création de l'étudiant: 1292 (22007): Incorrect date value: 'string' for column `GestionsdesEtudiant`.`Etudiant`.`date` at row 1
+ERROR:root:Erreur lors de la création de l'étudiant: 1292 (22007): Incorrect date value: 'string' for column `GestionsdesEtudiant`.`Etudiant`.`date` at row 1
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [11041]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [15987]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Étudiant créé avec succès!
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [15987]
+INFO:uvicorn.error:Started server process [16127]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1054 (42S22): Unknown column 'tatus' in 'field list'
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [16127]
+INFO:uvicorn.error:Started server process [21378]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [21378]
+INFO:uvicorn.error:Started server process [21751]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Started server process [25935]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Started server process [26168]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [26168]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [4122]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+ERROR:root:Erreur lors de la mise à jour de l'étudiant: 1292 (22007): Incorrect date value: '275760-03-12' for column `GestionsdesEtudiant`.`Etudiant`.`date` at row 1
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [4122]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [6960]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [6960]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [9881]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Finished server process [9881]
+ERROR:uvicorn.error:Traceback (most recent call last):
+  File "/home/duckel/.local/lib/python3.10/site-packages/starlette/routing.py", line 686, in lifespan
+    await receive()
+  File "/usr/lib/python3/dist-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:uvicorn.error:Started server process [13599]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Étudiant créé avec succès!
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
+INFO:root:Liste des étudiants récupérée avec succès
